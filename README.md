@@ -35,4 +35,4 @@ This repository contains scripts and resources for building a real-time sign lan
 Install dependencies with:
 
 ```bash
-pip install opencv-python tensorflow mediapipe numpy pandas scikit-learn
+pip install numpy pandas opencv-python tensorflow mediapipe scikit-learn
